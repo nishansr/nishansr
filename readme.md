@@ -2,7 +2,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Android App Development.<br>👯 I’m looking to collaborate on more projects.<br>🌱 I’m currently learning Flutter.<br>⚡ Fun fact I'm an introvert.
 
-
+![snake gif]
+(https://github.com/nishansr/nishansr/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100010972452735) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishan_thegod/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishan-bishwokarma-033574270/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nishanbishokarma98/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nishansr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nishan_thegod?lang=en) 
