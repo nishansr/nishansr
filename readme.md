@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Android App Development.<br>👯 I’m looking to collaborate on more projects.<br>🌱 I’m currently learning Flutter.<br>⚡ Fun fact I'm an introvert.
 
-![snake gif](https://github.com/nishansr/nishansr/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/nishansr/nishansr/blob/output/github-contribution-grid-snake.gif)-->
 
 
 
