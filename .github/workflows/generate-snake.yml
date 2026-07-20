@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
     
     steps:
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: nishansr
           github_token: ${{ secrets.PAT_TOKEN }}
